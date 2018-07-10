@@ -1,6 +1,6 @@
 <?php
 
-namespace webrtc\web;
+namespace socketio\web;
 
 use yii\web\AssetBundle;
 
