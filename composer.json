@@ -1,0 +1,21 @@
+{
+    "name": "desenvolvedorindie/yii2-socketio-client",
+    "description": "Yii2 socketio client",
+    "type": "library",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Alberto Castro",
+            "email": "alberto@ecastro.com.br"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "2.0.*",
+        "bower-asset/socket.io-client": "2.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "socketio\\web\\": "src"
+        }
+    }
+}
